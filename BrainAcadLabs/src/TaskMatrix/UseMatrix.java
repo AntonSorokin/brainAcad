@@ -1,4 +1,4 @@
-package Main;
+package TaskMatrix;
 
 public class UseMatrix {
 	
