@@ -20,7 +20,7 @@ public class Accountant {
 			sal[i] = salary;
 			i++;
 		}
-		Employee e = new Employee(name, sal);
+		Employee e = new Employee();
 		e.calcSalary(name, sal);
 	}
 }
